@@ -1,0 +1,42 @@
+.card-image{
+
+    width:100%;
+}
+
+.heading{
+    font-size:30px;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+}
+.main-heading{
+    font-family:'Times New Roman', Times, serif;
+    font-size:28px;
+    color:black;
+    margin-top:10px;
+    margin-bottom:20px;
+    text-align:center;
+
+
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size:25px;
+    color:black;
+    text-align:center;
+    margin-top:0px;
+
+
+}
+.butt{
+    text-align:center;
+}
+
+.all{
+    margin-top:15px;
+    margin-bottom:10px;
+}
+
+.top-heading{
+    border:2px solid red;
+    background-color:rgb(209, 210, 210);
+}
